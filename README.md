@@ -18,7 +18,7 @@ También expongo la evolución de los distintos tratamientos de la fracción res
 - ¿Deberíamos seguir replanteando nuestros conceptos de consumo?
 
 ## FUENTE
-Toda esta investigación se llevó a cabo gracias a los datos obiertos obtenidos del Departamento de Acción Climática, Alimentación y Agenda Rural. [Estadísticas de residuos municipales](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data)
+Toda esta investigación se llevó a cabo gracias a los datos obiertos obtenidos del Departamento de Acción Climática, Alimentación y Agenda Rural de la Generalitat de Catalunya. [Estadísticas de residuos municipales](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data)
 
 ## AGRADECIMIENTOS 🫂
 - Este tema me atravesó cuando una mañana de primavera estaba nadando en el mar y un paquete de patatas flotando interrumpió mi disfrute, por eso agradezco a Oscar y Pedro por haberme enseñado este hermoso deporte.
