@@ -21,7 +21,7 @@ También expongo la evolución de los distintos tratamientos de la fracción res
 Toda esta investigación se llevó a cabo gracias a los datos obiertos obtenidos del Departamento de Acción Climática, Alimentación y Agenda Rural de la Generalitat de Catalunya. [Estadísticas de residuos municipales](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data)
 
 ## AGRADECIMIENTOS 🫂
-- Este tema me atravesó cuando una mañana de primavera estaba nadando en el mar y un paquete de patatas flotando interrumpió mi disfrute, por eso agradezco a Oscar y Pedro por haberme enseñado este hermoso deporte.
-- A Alana, por su paciencia, amabilidad y no dejarme pasar ningún sprint sin dar un poquito más de lo que le proponía.
-- A Gasty, por haber sido mi mayor referente en el mundo de los datos.
-- Y por último al Colo, quien me atendió el teléfono cuando esta idea estaba en pañales.
+- Este tema me atravesó cuando una mañana de primavera estaba nadando en el mar y un paquete de patatas flotando interrumpió mi disfrute, por eso agradezco a [Oscar](https://www.linkedin.com/in/oscar-trabado-rius-2b231419b/) y [Pedro](https://www.linkedin.com/in/pedro-baldantoni-3887a5248/) por haberme enseñado este hermoso deporte.
+- A [Alana](https://www.linkedin.com/in/alanal-olivieri-rincon/), por su paciencia, amabilidad y no dejarme pasar ningún sprint sin dar un poquito más de lo que le proponía.
+- A [Gasty](https://www.linkedin.com/in/gastonpena/), por haber sido mi mayor referente en el mundo de los datos.
+- Y por último al [Colo](https://www.linkedin.com/in/santiago-betervide-9458b3161/), mi licenciado en gestión ambiental favorito.
