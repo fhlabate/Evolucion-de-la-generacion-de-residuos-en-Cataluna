@@ -2,9 +2,12 @@
 ### Un enfoque analítico para la sostenibilidad
 
 ## RESUMEN
-¿Estamos generando más residuos en Cataluña en los últimos 13 años? ¿Y puntualmente en el área metropolitana de Barcelona? ¿Qué porcentaje de esos residuos se generan como recogida selectiva y que porcentaje cómo resto?
+¿Ha aumentado la generación de residuos en Cataluña en los últimos años?
+¿Qué porcentaje de los mismos está siendo reciclado?
+¿Cómo es la evolución de los distintos residuos enterrados en depósitos controlados?
+¿Cómo se encuentra Cataluña de cara a los objetivos según las normativas vigentes? 
 
-El objetivo de esta investigación es generar conciencia y visibilidad a un tema que en el día a día pasa desapercibido y requiere nuestro compromiso como sociedad.
+En este proyecto se analizarán distintas bases de datos abiertas para responder a estas preguntas con el objetivo de generar conciencia y visibilidad a un tema que en el día a día pasa desapercibido y requiere nuestro compromiso como sociedad.
 
 ## CONTEXTO
 El siguiente repositorio contiene un artículo donde evidencio en cifras la cantidad de residuos que estamos generando en Cataluña, con la posibilidad de segmentar sus 41 comarcas. 
