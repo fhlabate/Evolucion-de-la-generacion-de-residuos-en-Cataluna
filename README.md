@@ -2,10 +2,10 @@
 ### Un enfoque analítico para la sostenibilidad
 
 ## RESUMEN
-¿Ha aumentado la generación de residuos en Cataluña en los últimos años?
-¿Qué porcentaje de los mismos está siendo reciclado?
-¿Cómo es la evolución de los distintos residuos enterrados en depósitos controlados?
-¿Cómo se encuentra Cataluña de cara a los objetivos según las normativas vigentes? 
+- ¿Ha aumentado la generación de residuos en Cataluña en los últimos años?
+- ¿Qué porcentaje de los mismos está siendo reciclado?
+- ¿Cómo es la evolución de los distintos residuos enterrados en depósitos controlados?
+- ¿Cómo se encuentra Cataluña de cara a los objetivos según las normativas vigentes? 
 
 En este proyecto se analizarán distintas bases de datos abiertas para responder a estas preguntas con el objetivo de generar conciencia y visibilidad a un tema que en el día a día pasa desapercibido y requiere nuestro compromiso como sociedad.
 
