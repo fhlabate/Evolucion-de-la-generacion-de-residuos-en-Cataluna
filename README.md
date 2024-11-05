@@ -32,11 +32,11 @@ Nos queda un largo camino de mejora con respecto a este punto.❌
 El 25% de los residuos que desechamos a la fracción resto, no están teniendo ningún tramiento previo a la incineración o su entierro en un depósito controlado.🥲
 ![image](https://github.com/user-attachments/assets/ab4372b0-8312-4209-9766-f684a37768c3)
 
-## REFLEXIÓN 🤔
+## REFLEXIONES 🤔
 - ¿Qué podemos mejorar como individuos viendo las cifras actuales y las posibles tendencias? 
 - ¿Deberíamos seguir replanteando nuestros conceptos de consumo?
 
-## FUENTE
+## FUENTES
 Toda esta investigación se llevó a cabo gracias a los datos abiertos obtenidos del Departamento de Acción Climática, Alimentación y Agenda Rural de la Generalitat de Catalunya. [Estadísticas de residuos municipales](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data)
 También pude hacer comparativas con países europeos a través de las bases de Eurostats [Municipal waste by waste management operations](https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table?lang=en) y [Generation of municipal waste per capita](https://ec.europa.eu/eurostat/databrowser/view/cei_pc031/default/table?lang=en)
 
